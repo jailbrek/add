@@ -5,6 +5,8 @@ Branch to contribute to the Jailbrek repo by pushing your tweak information.
 
 2. The F.A.Q is not particially finished so please just read the About page if you have questions.
 
+3. Use our template to easily start!
+
 ## How to Submit a Tweak
 
 To submit a new tweak, please open a new issue and fill out the Tweak Request template. Make sure to include the necessary metadata for the tweak as shown in the template. Here's what you should include:
